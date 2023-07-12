@@ -1,0 +1,222 @@
+2023-07-12 03:51:43 info: =================================
+2023-07-12 03:51:43 info: ======= ENV: development =======
+2023-07-12 03:51:43 info: 🚀 App listening on the port 3001
+2023-07-12 03:51:43 info: =================================
+2023-07-12 03:52:23 info: =================================
+2023-07-12 03:52:23 info: ======= ENV: development =======
+2023-07-12 03:52:23 info: 🚀 App listening on the port 3001
+2023-07-12 03:52:23 info: =================================
+2023-07-12 03:54:27 info: =================================
+2023-07-12 03:54:27 info: ======= ENV: development =======
+2023-07-12 03:54:27 info: 🚀 App listening on the port 3001
+2023-07-12 03:54:27 info: =================================
+2023-07-12 09:15:50 info: =================================
+2023-07-12 09:15:50 info: ======= ENV: development =======
+2023-07-12 09:15:50 info: 🚀 App listening on the port 3001
+2023-07-12 09:15:50 info: =================================
+2023-07-12 10:34:51 info: =================================
+2023-07-12 10:34:51 info: ======= ENV: development =======
+2023-07-12 10:34:51 info: 🚀 App listening on the port 3001
+2023-07-12 10:34:51 info: =================================
+2023-07-12 10:38:20 info: =================================
+2023-07-12 10:38:20 info: ======= ENV: development =======
+2023-07-12 10:38:20 info: 🚀 App listening on the port 3001
+2023-07-12 10:38:20 info: =================================
+2023-07-12 10:42:02 info: =================================
+2023-07-12 10:42:02 info: ======= ENV: development =======
+2023-07-12 10:42:02 info: 🚀 App listening on the port 3001
+2023-07-12 10:42:02 info: =================================
+2023-07-12 10:48:07 info: NotifyManager: start
+2023-07-12 10:49:07 info: NotifyManager: schedule job start
+2023-07-12 10:49:08 debug: queryForNotification
+2023-07-12 10:49:08 debug: queryForNotification
+2023-07-12 10:49:54 info: NotifyManager: start
+2023-07-12 10:50:06 info: NotifyManager: schedule job start
+2023-07-12 10:50:06 debug: queryForNotification
+2023-07-12 10:52:46 info: NotifyManager: start
+2023-07-12 10:53:06 info: NotifyManager: schedule job start
+2023-07-12 10:53:09 debug: queryForNotification
+2023-07-12 10:53:42 info: NotifyManager: start
+2023-07-12 10:54:02 info: NotifyManager: schedule job start
+2023-07-12 10:54:03 debug: queryForNotification
+2023-07-12 10:54:03 info: queryForNotification
+2023-07-12 10:55:43 info: NotifyManager: start
+2023-07-12 10:56:02 info: NotifyManager: schedule job start
+2023-07-12 10:56:03 debug: queryForNotification
+2023-07-12 10:56:03 info: queryForNotification
+2023-07-12 10:59:21 info: NotifyManager: start
+2023-07-12 11:00:03 info: NotifyManager: schedule job start
+2023-07-12 11:00:03 debug: queryForNotification
+2023-07-12 11:00:03 info: queryForNotification
+2023-07-12 11:00:23 info: NotifyManager: schedule job stop
+2023-07-12 11:01:04 info: NotifyManager: start
+2023-07-12 11:02:08 info: NotifyManager: start
+2023-07-12 11:03:03 info: NotifyManager: schedule job start
+2023-07-12 11:03:04 debug: queryForNotification
+2023-07-12 11:03:04 info: queryForNotification
+2023-07-12 11:06:01 info: NotifyManager: start
+2023-07-12 11:06:55 info: NotifyManager: start
+2023-07-12 11:07:02 info: NotifyManager: schedule job start
+2023-07-12 11:07:02 debug: queryForNotification
+2023-07-12 11:07:02 info: queryForNotification
+2023-07-12 11:07:03 info: NotifyManager: schedule job stop
+2023-07-12 11:07:05 info: sendNotification 64ae578786a403e1458d3d0b
+2023-07-12 11:07:05 info: sendNotification 64ae578786a403e1458d3d0b
+2023-07-12 11:08:05 info: NotifyManager: schedule job start
+2023-07-12 11:08:05 debug: queryForNotification
+2023-07-12 11:08:05 info: queryForNotification
+2023-07-12 11:08:07 info: NotifyManager: schedule job stop
+2023-07-12 11:09:59 info: NotifyManager: start
+2023-07-12 11:10:05 info: NotifyManager: schedule job start
+2023-07-12 11:10:05 debug: queryForNotification
+2023-07-12 11:10:05 info: queryForNotification
+2023-07-12 11:10:05 info: NotifyManager: schedule job stop
+2023-07-12 11:11:00 info: NotifyManager: schedule job start
+2023-07-12 11:11:00 debug: queryForNotification
+2023-07-12 11:11:00 info: queryForNotification
+2023-07-12 11:11:20 info: NotifyManager: schedule job stop
+2023-07-12 11:12:00 info: NotifyManager: schedule job start
+2023-07-12 11:12:00 debug: queryForNotification
+2023-07-12 11:12:00 info: queryForNotification
+2023-07-12 11:12:22 info: NotifyManager: schedule job stop
+2023-07-12 12:21:42 info: NotifyManager: start
+2023-07-12 12:22:00 info: NotifyManager: schedule job start
+2023-07-12 12:22:00 debug: queryForNotification
+2023-07-12 12:23:03 info: NotifyManager: start
+2023-07-12 12:24:00 info: NotifyManager: schedule job start
+2023-07-12 12:24:00 debug: queryForNotification
+2023-07-12 12:25:00 info: NotifyManager: schedule job start
+2023-07-12 12:25:00 debug: queryForNotification
+2023-07-12 12:26:00 info: NotifyManager: schedule job start
+2023-07-12 12:26:00 debug: queryForNotification
+2023-07-12 12:27:00 info: NotifyManager: schedule job start
+2023-07-12 12:27:00 debug: queryForNotification
+2023-07-12 12:28:00 info: NotifyManager: schedule job start
+2023-07-12 12:28:00 debug: queryForNotification
+2023-07-12 12:29:00 info: NotifyManager: schedule job start
+2023-07-12 12:29:00 debug: queryForNotification
+2023-07-12 12:30:00 info: NotifyManager: schedule job start
+2023-07-12 12:30:01 debug: queryForNotification
+2023-07-12 12:31:00 info: NotifyManager: schedule job start
+2023-07-12 12:31:00 debug: queryForNotification
+2023-07-12 12:32:00 info: NotifyManager: schedule job start
+2023-07-12 12:32:00 debug: queryForNotification
+2023-07-12 12:32:39 info: NotifyManager: start
+2023-07-12 12:33:03 info: NotifyManager: schedule job start
+2023-07-12 12:33:03 debug: queryForNotification
+2023-07-12 12:35:15 info: NotifyManager: start
+2023-07-12 12:36:02 info: NotifyManager: schedule job start
+2023-07-12 12:36:02 info: queryForNotification
+2023-07-12 12:36:02 info: queryForNotification
+2023-07-12 12:36:05 info: NotifyManager: schedule job stop
+2023-07-12 12:36:07 info: sendNotification 64ae70cd60f83903590f28bc
+2023-07-12 12:36:09 info: sendNotification 64ae731260f83903590f28be
+2023-07-12 12:36:09 info: sendNotification 64ae70cd60f83903590f28bc
+2023-07-12 12:36:09 info: sendNotification 64ae731260f83903590f28be
+2023-07-12 12:37:54 info: NotifyManager: start
+2023-07-12 12:38:23 info: NotifyManager: schedule job start
+2023-07-12 12:38:24 info: queryForNotification
+2023-07-12 12:38:54 info: NotifyManager: start
+2023-07-12 12:39:03 info: NotifyManager: schedule job start
+2023-07-12 12:39:03 info: queryForNotification
+2023-07-12 12:39:20 info: NotifyManager: start
+2023-07-12 12:40:03 info: NotifyManager: schedule job start
+2023-07-12 12:40:04 info: queryForNotification
+2023-07-12 12:41:08 info: NotifyManager: schedule job start
+2023-07-12 12:41:08 info: queryForNotification
+2023-07-12 12:42:05 info: NotifyManager: schedule job start
+2023-07-12 12:42:05 info: queryForNotification
+2023-07-12 12:47:49 info: NotifyManager: start
+2023-07-12 12:48:00 info: NotifyManager: schedule job start
+2023-07-12 12:51:05 info: NotifyManager: start
+2023-07-12 12:52:00 info: NotifyManager: schedule job start
+2023-07-12 12:52:00 info: queryForNotification
+2023-07-12 12:52:06 info: queryForNotification
+2023-07-12 12:52:07 info: NotifyManager: schedule job stop
+2023-07-12 13:00:45 info: NotifyManager: start
+2023-07-12 13:01:00 info: NotifyManager: schedule job start
+2023-07-12 13:01:00 info: queryForNotification
+2023-07-12 13:01:00 info: queryForNotification
+2023-07-12 13:01:00 info: NotifyManager: schedule job stop
+2023-07-12 13:02:00 info: NotifyManager: schedule job start
+2023-07-12 13:02:00 info: queryForNotification
+2023-07-12 13:02:00 info: queryForNotification
+2023-07-12 13:02:00 info: NotifyManager: schedule job stop
+2023-07-12 13:02:30 info: sendNotification 64ae79e160f83903590f28c0
+2023-07-12 13:02:30 info: sendNotification 64ae79e160f83903590f28c0
+2023-07-12 13:25:16 info: NotifyManager: start
+2023-07-12 13:26:00 info: NotifyManager: schedule job start
+2023-07-12 13:26:00 info: queryForNotification
+2023-07-12 13:26:00 info: queryForNotification
+2023-07-12 13:26:00 info: NotifyManager: schedule job stop
+2023-07-12 13:27:00 info: NotifyManager: schedule job start
+2023-07-12 13:27:00 info: queryForNotification
+2023-07-12 13:27:00 info: queryForNotification
+2023-07-12 13:27:00 info: NotifyManager: schedule job stop
+2023-07-12 13:28:00 info: NotifyManager: schedule job start
+2023-07-12 13:28:00 info: queryForNotification
+2023-07-12 13:28:00 info: queryForNotification
+2023-07-12 13:28:00 info: NotifyManager: schedule job stop
+2023-07-12 13:28:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:28:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:28:39 info: NotifyManager: start
+2023-07-12 13:28:54 info: NotifyManager: start
+2023-07-12 13:29:00 info: NotifyManager: schedule job start
+2023-07-12 13:29:00 info: queryForNotification
+2023-07-12 13:29:00 info: queryForNotification
+2023-07-12 13:29:00 info: NotifyManager: schedule job stop
+2023-07-12 13:29:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:29:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:29:26 info: NotifyManager: start
+2023-07-12 13:29:26 info: =================================
+2023-07-12 13:29:26 info: ======= ENV: development =======
+2023-07-12 13:29:26 info: 🚀 App listening on the port 3001
+2023-07-12 13:29:26 info: =================================
+2023-07-12 13:29:35 info: [0mDELETE /todos/64adda088dfa7a9c70b50f7d [32m200[0m 3.338 ms - 34[0m
+2023-07-12 13:30:00 info: NotifyManager: schedule job start
+2023-07-12 13:30:00 info: queryForNotification
+2023-07-12 13:30:00 info: queryForNotification
+2023-07-12 13:30:00 info: NotifyManager: schedule job stop
+2023-07-12 13:30:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:30:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:30:30 info: sendNotification 64ae809d60f83903590f28c4
+2023-07-12 13:30:42 info: sendNotification 64ae809d60f83903590f28c4
+2023-07-12 13:31:00 info: NotifyManager: schedule job start
+2023-07-12 13:31:00 info: queryForNotification
+2023-07-12 13:31:00 info: queryForNotification
+2023-07-12 13:31:00 info: NotifyManager: schedule job stop
+2023-07-12 13:31:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:31:33 info: sendNotification 64ae809d60f83903590f28c4
+2023-07-12 13:31:37 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:32:32 info: NotifyManager: start
+2023-07-12 13:32:32 info: =================================
+2023-07-12 13:32:32 info: ======= ENV: development =======
+2023-07-12 13:32:32 info: 🚀 App listening on the port 3001
+2023-07-12 13:32:32 info: =================================
+2023-07-12 13:33:00 info: NotifyManager: schedule job start
+2023-07-12 13:33:00 info: queryForNotification
+2023-07-12 13:33:00 info: queryForNotification
+2023-07-12 13:34:46 info: NotifyManager: start
+2023-07-12 13:34:46 info: =================================
+2023-07-12 13:34:46 info: ======= ENV: development =======
+2023-07-12 13:34:46 info: 🚀 App listening on the port 3001
+2023-07-12 13:34:46 info: =================================
+2023-07-12 13:35:00 info: NotifyManager: schedule job start
+2023-07-12 13:35:00 info: queryForNotification
+2023-07-12 13:35:00 info: queryForNotification
+2023-07-12 13:35:00 info: NotifyManager: schedule job stop
+2023-07-12 13:35:00 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:35:13 info: sendNotification 64ae809d60f83903590f28c4
+2023-07-12 13:35:48 info: sendNotification 64ae800760f83903590f28c2
+2023-07-12 13:36:19 info: sendNotification 64ae809d60f83903590f28c4
+2023-07-12 13:37:00 info: NotifyManager: schedule job start
+2023-07-12 13:37:00 info: queryForNotification
+2023-07-12 13:37:00 info: queryForNotification
+2023-07-12 13:37:00 info: NotifyManager: schedule job stop
+2023-07-12 13:37:30 info: sendNotification 64ae823360f83903590f28c8
+2023-07-12 13:37:41 info: sendNotification 64ae823360f83903590f28c8
+2023-07-12 13:38:00 info: NotifyManager: schedule job start
+2023-07-12 13:38:00 info: queryForNotification
+2023-07-12 13:38:00 info: queryForNotification
+2023-07-12 13:38:13 info: NotifyManager: schedule job stop
+2023-07-12 13:38:21 info: [0mDELETE /todos/64ae828760f83903590f28cb [32m200[0m 3.416 ms - 33[0m

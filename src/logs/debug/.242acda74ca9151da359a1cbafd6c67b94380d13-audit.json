@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/zivbrachia/projects/todo-notification-start/src/logs/debug/.242acda74ca9151da359a1cbafd6c67b94380d13-audit.json",
+    "files": [
+        {
+            "date": 1689123068828,
+            "name": "/Users/zivbrachia/projects/todo-notification-start/src/logs/debug/2023-07-12.log",
+            "hash": "15327dedb23370ba0268237fda55eeca8da4254581be07da4511ff907bb6c62e"
+        }
+    ],
+    "hashType": "sha256"
+}
